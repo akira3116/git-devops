@@ -1,1 +1,1 @@
-This is a sample to commit as first file
+This is a sample to commit as first file to be added
